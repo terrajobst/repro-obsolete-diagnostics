@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IMMO0001: Type or member is obsolete
+# dotnet_diagnostic.IMMO0001.severity = error
